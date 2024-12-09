@@ -68,8 +68,8 @@ The project utilizes the **Brazilian E-commerce Dataset (Olist)**, which consist
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Vraj08/ACID-vs.-BASE-Properties-Comparison-Using-E-commerce-Dataset.git
+cd ACID-vs.-BASE-Properties-Comparison-Using-E-commerce-Dataset
 ```
 
 ---
